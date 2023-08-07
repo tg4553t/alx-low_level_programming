@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    jack_bauer();
+    _print_rev_recursion("\nColton Walker");
     return (0);
 }

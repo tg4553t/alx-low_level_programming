@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    jack_bauer();
+    _puts_recursion("Puts with recursion");
     return (0);
 }
